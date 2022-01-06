@@ -1,0 +1,10 @@
+3.1.1
+pypi(colorama)
+pypi(gitpython)
+pypi(jinja2)
+pypi(jupyter_server)
+pypi(jupyter_server_mathjax)
+pypi(nbformat)
+pypi(pygments)
+pypi(requests)
+pypi(tornado)

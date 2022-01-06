@@ -1,0 +1,5 @@
+# This file contains the output files that need %exclude. Full path
+# names, one per line.
+/usr/etc/jupyter/jupyter_notebook_config.d/nbdime.json 
+/usr/etc/jupyter/jupyter_server_config.d/nbdime.json
+/usr/etc/jupyter/nbconfig/notebook.d/nbdime.json
